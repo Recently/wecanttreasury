@@ -9,11 +9,11 @@ Setup index.php to view newly created pages in /pages
  - display-participants.php
  - display-treasury.php
  - add_to_treasury.php
-Entire project MUST be sanitized for sql injection attacks - zero safety and sanitization has been done as of yet
-Add first authorized user to import.sql
-Finalize DB structure and credentials (see: import.sql)
-Replace template images with cool stuff
-Adjust header & footer templates and include on page structure
+ - Entire project MUST be sanitized for sql injection attacks - zero safety and sanitization has been done as of yet
+ - Add first authorized user to import.sql
+ - Finalize DB structure and credentials (see: import.sql)
+ - Replace template images with cool stuff
+ - Adjust header & footer templates and include on page structure
 
 
 
