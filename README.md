@@ -1,4 +1,4 @@
-# wcrtreasury
+# wecanttreasury
 Treasury for WeCantRead RS3 Clan - A project by RecentSama AKA WeCantRead AKA recently on Discord. This is currently version 0.1a alpha. Project was started 6/4/23.  
 
 Todo: 
